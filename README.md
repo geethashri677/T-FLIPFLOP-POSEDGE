@@ -36,7 +36,10 @@ From the above characteristic table, we can directly write the next state equati
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/ad2cb18c-4773-4f9d-a410-ee00f6b912e1" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/87970aac-f93e-4e2b-a28b-7ddc6ba2e3cd" />
 
 **RESULTS**
+Thus,Program for flipflops and verified its truth table in quartus using Verilog programming.
